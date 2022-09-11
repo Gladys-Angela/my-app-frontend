@@ -1,9 +1,14 @@
-
+import React from "react";
+import Header from "./components/Header";
+import TodoList from "./components/TodoList";
 
 function App() {
   return (
     <div className="App">
-      <h1>Simple Todo App</h1>
+      <div className="content">
+        <Header />
+        <TodoList />
+        </div>
     </div>
   );
 }

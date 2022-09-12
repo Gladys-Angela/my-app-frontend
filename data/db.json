@@ -1,0 +1,65 @@
+{
+    "todos": 
+[
+   {
+      "userId": 1,
+      "id": 1,
+      "title": "Hit the gym",
+      "done": false
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "Pay bills",
+      "done": true
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "Exercise",
+      "done": false
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "Walk the dog",
+      "done": true
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "title": "Meditate",
+      "done": false
+    },
+    {
+      "userId": 1,
+      "id": 6,
+      "title": "Watch a documentary",
+      "done": false
+    },
+    {
+      "userId": 1,
+      "id": 7,
+      "title": "visit friends",
+      "done": false
+    },
+    {
+      "userId": 1,
+      "id": 8,
+      "title": "Going out",
+      "done": true
+    },
+    {
+      "userId": 1,
+      "id": 9,
+      "title": "Study for the test",
+      "done": false
+    },
+    {
+      "userId": 1,
+      "id": 10,
+      "title": "Code",
+      "done": true
+    }
+]
+}
